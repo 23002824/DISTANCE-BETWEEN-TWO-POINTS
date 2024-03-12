@@ -9,7 +9,7 @@ Start
 Define the coordinates of the two points (x1, y1) and (x2, y2).
 ### Step 3: 
 Substitute the values of the coordinates into the distance formula: 
-[formula](/formula.JPG)
+![alt text](formula-1.JPG)
 ### Step 4:
 Calculate the square of the differences of x-coordinates and y-coordinates.
 ### Step 5:
