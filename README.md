@@ -23,6 +23,9 @@ End
 ### PROGRAM:
 
 ```
+
+DISTANCE-BETWEEN-TWO-POINTS
+
 import math
 x1=10
 x2=4
@@ -31,6 +34,9 @@ y2=2
 d=math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 e=round(d,2)
 print(e)
+
+Developed by:Danica Christa
+RegisterNumber:212223240022
 ```
 ### OUTPUT:
 ![alt text](<Screenshot 2024-03-09 214202.png>)
